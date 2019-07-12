@@ -1,5 +1,7 @@
-# DAnet-for-crowd-counting--Caffe-Implementation
- This work is accepted in ICIP 2019 conference
+# DAnet: Depth-aware Network for Crowd Counting
+by Huynh Van Su, Tran Vu Hoang, Ching-Chun Huang
+
+This work is accepted in ICIP 2019 conference
  
  ## Architecture
  
